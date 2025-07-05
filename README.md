@@ -70,6 +70,9 @@ Acceder a la plataforma
 
 Abrir el navegador en la siguiente URL:
 👉 http://localhost:3000/login.html
+🤵‍♂️usuario Admin:
+   user: admin
+   password:admin123
 
 🌐 Endpoints disponibles
 
